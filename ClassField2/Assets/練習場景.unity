@@ -576,6 +576,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemy1: {fileID: 1564645923}
   enemy2: {fileID: 531966152}
+  result: {fileID: 1105766885}
   hp: 0
   attack: 0
   cure: 0
@@ -882,6 +883,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemy1: {fileID: 1564645923}
   enemy2: {fileID: 531966152}
+  result: {fileID: 0}
 --- !u!4 &797510319
 Transform:
   m_ObjectHideFlags: 0
@@ -1332,6 +1334,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemy1: {fileID: 1564645923}
   enemy2: {fileID: 531966152}
+  result: {fileID: 1105766885}
   hp: 0
   attack: 0
   cure: 0
